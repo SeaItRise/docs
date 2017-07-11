@@ -1,6 +1,6 @@
 # Overview
 
-Sea It Ris is a cell phone app and back-end infrastructure to enable the visualization of future sea level rise at shoreline locations. The phone app will also enable the collection of shorline photos for archiving in the back-end system with appropriate metadata in order to build a databasee of shoreline conditions at various tidal stages and wind/weather regimes. 
+Sea It Rise is a cell phone app and back-end infrastructure to enable the visualization of future sea level rise at shoreline locations. The phone app will also enable the collection of shorline photos for archiving in the back-end system with appropriate metadata in order to build a databasee of shoreline conditions at various tidal stages and wind/weather regimes. 
 
 The phone app will consist of 3 different modes:
   1. Map mode. Screen will show current location on background map. This will be the central view on startup, and provide both a location "beacon" as well as context of expected Relative Sea Level (RSL) from the NOAA Office for Coastal Management. 
