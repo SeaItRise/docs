@@ -5,6 +5,11 @@
   ### Cares About
   ### Delighted by
   
+## Shoreline Researcher
+  ### Use Case
+  ### Cares About
+  ### Delighted by
+  
 ## Teacher/Field trip leader
   ### Use Case
   ### Cares About
